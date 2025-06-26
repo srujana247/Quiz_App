@@ -38,4 +38,4 @@ quiz-app/
    git clone https://github.com/your-username/quiz-app.git
 
    ## manually
-   simply oprn index.html in any browser
+   simply open index.html in any browser
